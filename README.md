@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/lasya-14/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/lasya-14/Leetcode/tree/master/0859-design-circular-deque) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/lasya-14/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/lasya-14/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/lasya-14/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/lasya-14/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/lasya-14/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0729-my-calendar-i](https://github.com/lasya-14/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/lasya-14/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/lasya-14/Leetcode/tree/master/0859-design-circular-deque) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/lasya-14/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Segment Tree
 |  |
 | ------- |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/lasya-14/Leetcode/tree/master/0432-all-oone-data-structure) |
+## Stack
+|  |
+| ------- |
+| [1497-design-a-stack-with-increment-operation](https://github.com/lasya-14/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 <!---LeetCode Topics End-->
