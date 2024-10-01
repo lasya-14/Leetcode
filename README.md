@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/lasya-14/Leetcode/tree/master/0859-design-circular-deque) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/lasya-14/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/lasya-14/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/lasya-14/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/lasya-14/Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/lasya-14/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/lasya-14/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/lasya-14/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/lasya-14/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2755-extra-characters-in-a-string](https://github.com/lasya-14/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/lasya-14/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 ## String
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/lasya-14/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/lasya-14/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 ## Greedy
 |  |
