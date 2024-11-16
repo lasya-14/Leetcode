@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/lasya-14/Leetcode/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/lasya-14/Leetcode/tree/master/0066-plus-one) |
 | [0670-maximum-swap](https://github.com/lasya-14/Leetcode/tree/master/0670-maximum-swap) |
 | [1635-number-of-good-pairs](https://github.com/lasya-14/Leetcode/tree/master/1635-number-of-good-pairs) |
