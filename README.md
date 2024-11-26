@@ -362,4 +362,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/lasya-14/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Graph
+|  |
+| ------- |
+| [3189-find-champion-ii](https://github.com/lasya-14/Leetcode/tree/master/3189-find-champion-ii) |
 <!---LeetCode Topics End-->
