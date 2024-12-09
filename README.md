@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/lasya-14/Leetcode/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/lasya-14/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/lasya-14/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0432-all-oone-data-structure](https://github.com/lasya-14/Leetcode/tree/master/0432-all-oone-data-structure) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/lasya-14/Leetcode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/lasya-14/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/lasya-14/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/lasya-14/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/lasya-14/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lasya-14/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/lasya-14/Leetcode/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/lasya-14/Leetcode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/lasya-14/Leetcode/tree/master/0070-climbing-stairs) |
 | [0670-maximum-swap](https://github.com/lasya-14/Leetcode/tree/master/0670-maximum-swap) |
