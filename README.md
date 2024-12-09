@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/lasya-14/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/lasya-14/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/lasya-14/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3427-special-array-ii](https://github.com/lasya-14/Leetcode/tree/master/3427-special-array-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/lasya-14/Leetcode/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/lasya-14/Leetcode/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 ## Hash Table
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2586-longest-square-streak-in-an-array](https://github.com/lasya-14/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lasya-14/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/lasya-14/Leetcode/tree/master/2699-count-the-number-of-fair-pairs) |
+| [3427-special-array-ii](https://github.com/lasya-14/Leetcode/tree/master/3427-special-array-ii) |
 ## Design
 |  |
 | ------- |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lasya-14/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/lasya-14/Leetcode/tree/master/1694-make-sum-divisible-by-p) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lasya-14/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3427-special-array-ii](https://github.com/lasya-14/Leetcode/tree/master/3427-special-array-ii) |
 ## Linked List
 |  |
 | ------- |
