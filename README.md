@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lasya-14/Leetcode/tree/master/0002-add-two-numbers) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/lasya-14/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0432-all-oone-data-structure](https://github.com/lasya-14/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0859-design-circular-deque](https://github.com/lasya-14/Leetcode/tree/master/0859-design-circular-deque) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lasya-14/Leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/lasya-14/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lasya-14/Leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/lasya-14/Leetcode/tree/master/0012-integer-to-roman) |
@@ -405,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/lasya-14/Leetcode/tree/master/0002-add-two-numbers) |
 | [1197-parsing-a-boolean-expression](https://github.com/lasya-14/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/lasya-14/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
