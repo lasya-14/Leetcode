@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/lasya-14/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lasya-14/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0169-majority-element](https://github.com/lasya-14/Leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lasya-14/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/lasya-14/Leetcode/tree/master/0268-missing-number) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lasya-14/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0729-my-calendar-i](https://github.com/lasya-14/Leetcode/tree/master/0729-my-calendar-i) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lasya-14/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/lasya-14/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lasya-14/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lasya-14/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/lasya-14/Leetcode/tree/master/0268-missing-number) |
 | [0729-my-calendar-i](https://github.com/lasya-14/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/lasya-14/Leetcode/tree/master/0731-my-calendar-ii) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lasya-14/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/lasya-14/Leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lasya-14/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lasya-14/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lasya-14/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0787-sliding-puzzle](https://github.com/lasya-14/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lasya-14/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lasya-14/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
