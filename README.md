@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/lasya-14/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/lasya-14/Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lasya-14/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0924-fair-candy-swap](https://github.com/lasya-14/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1002-maximum-width-ramp](https://github.com/lasya-14/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lasya-14/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/lasya-14/Leetcode/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/lasya-14/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lasya-14/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0782-jewels-and-stones](https://github.com/lasya-14/Leetcode/tree/master/0782-jewels-and-stones) |
+| [0924-fair-candy-swap](https://github.com/lasya-14/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lasya-14/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1256-rank-transform-of-an-array](https://github.com/lasya-14/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lasya-14/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0731-my-calendar-ii](https://github.com/lasya-14/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lasya-14/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lasya-14/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0924-fair-candy-swap](https://github.com/lasya-14/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lasya-14/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lasya-14/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lasya-14/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/lasya-14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lasya-14/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lasya-14/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0924-fair-candy-swap](https://github.com/lasya-14/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1256-rank-transform-of-an-array](https://github.com/lasya-14/Leetcode/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lasya-14/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2164-two-best-non-overlapping-events](https://github.com/lasya-14/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
