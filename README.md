@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0432-all-oone-data-structure](https://github.com/lasya-14/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/lasya-14/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0859-design-circular-deque](https://github.com/lasya-14/Leetcode/tree/master/0859-design-circular-deque) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lasya-14/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Queue
 |  |
 | ------- |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lasya-14/Leetcode/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/lasya-14/Leetcode/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/lasya-14/Leetcode/tree/master/0670-maximum-swap) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lasya-14/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/lasya-14/Leetcode/tree/master/1635-number-of-good-pairs) |
 ## Monotonic Stack
 |  |
