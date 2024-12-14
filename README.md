@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/lasya-14/Leetcode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/lasya-14/Leetcode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/lasya-14/Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/lasya-14/Leetcode/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/lasya-14/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/lasya-14/Leetcode/tree/master/0242-valid-anagram) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/lasya-14/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0071-simplify-path](https://github.com/lasya-14/Leetcode/tree/master/0071-simplify-path) |
 | [1002-maximum-width-ramp](https://github.com/lasya-14/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1197-parsing-a-boolean-expression](https://github.com/lasya-14/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/lasya-14/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
