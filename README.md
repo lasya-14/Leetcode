@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1755-defuse-the-bomb](https://github.com/lasya-14/Leetcode/tree/master/1755-defuse-the-bomb) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lasya-14/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/lasya-14/Leetcode/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [1917-maximum-average-pass-ratio](https://github.com/lasya-14/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/lasya-14/Leetcode/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/lasya-14/Leetcode/tree/master/1972-rotating-the-box) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lasya-14/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0670-maximum-swap](https://github.com/lasya-14/Leetcode/tree/master/0670-maximum-swap) |
 | [1304-longest-happy-string](https://github.com/lasya-14/Leetcode/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lasya-14/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
+| [1917-maximum-average-pass-ratio](https://github.com/lasya-14/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2089-maximum-matrix-sum](https://github.com/lasya-14/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/lasya-14/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2199-two-furthest-houses-with-different-colors](https://github.com/lasya-14/Leetcode/tree/master/2199-two-furthest-houses-with-different-colors) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lasya-14/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lasya-14/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1304-longest-happy-string](https://github.com/lasya-14/Leetcode/tree/master/1304-longest-happy-string) |
+| [1917-maximum-average-pass-ratio](https://github.com/lasya-14/Leetcode/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lasya-14/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/lasya-14/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lasya-14/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
