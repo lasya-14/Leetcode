@@ -1,18 +1,25 @@
 class Solution:
     def checkValidString(self, s: str) -> bool:
-        l,r=0,0
-        for i in s:
-            if i=='(':
-                l+=1
-                r+=1
-            elif i==')':
-                l-=1
-                r-=1
+        st=[]
+        star=[]
+        for i in range(len(s)):
+            if s[i]=='(':
+                st.append(i)
+            elif s[i]==')':
+                if st:
+                    st.pop()
+                elif star:
+                    star.pop()
+                else:
+                    return False
             else:
-                l-=1
-                r+=1
-            if r<0:
+                star.append(i)
+        while len(st)>0 and len(star)>0:
+            if st[-1]>star[-1]:
                 return False
-            l=max(l,0)
-        return l==0
-        
+            star.pop()
+            st.pop()
+        return len(st)==0
+
+
+       
