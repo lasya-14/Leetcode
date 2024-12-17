@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/lasya-14/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lasya-14/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/lasya-14/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/lasya-14/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/lasya-14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lasya-14/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0503-next-greater-element-ii](https://github.com/lasya-14/Leetcode/tree/master/0503-next-greater-element-ii) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/lasya-14/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lasya-14/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0300-longest-increasing-subsequence](https://github.com/lasya-14/Leetcode/tree/master/0300-longest-increasing-subsequence) |
+| [0322-coin-change](https://github.com/lasya-14/Leetcode/tree/master/0322-coin-change) |
 | [0678-valid-parenthesis-string](https://github.com/lasya-14/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1250-longest-common-subsequence](https://github.com/lasya-14/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lasya-14/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -489,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/lasya-14/Leetcode/tree/master/0112-path-sum) |
+| [0322-coin-change](https://github.com/lasya-14/Leetcode/tree/master/0322-coin-change) |
 | [0787-sliding-puzzle](https://github.com/lasya-14/Leetcode/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lasya-14/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/lasya-14/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
