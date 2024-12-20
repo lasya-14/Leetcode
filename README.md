@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/lasya-14/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/lasya-14/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0988-flip-equivalent-binary-trees](https://github.com/lasya-14/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lasya-14/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -356,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/lasya-14/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0316-remove-duplicate-letters](https://github.com/lasya-14/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0503-next-greater-element-ii](https://github.com/lasya-14/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/lasya-14/Leetcode/tree/master/0678-valid-parenthesis-string) |
@@ -528,6 +530,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/lasya-14/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/lasya-14/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/lasya-14/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lasya-14/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -550,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0112-path-sum](https://github.com/lasya-14/Leetcode/tree/master/0112-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/lasya-14/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/lasya-14/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/lasya-14/Leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
