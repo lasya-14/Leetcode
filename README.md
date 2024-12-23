@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lasya-14/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/lasya-14/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/lasya-14/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/lasya-14/Leetcode/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lasya-14/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lasya-14/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/lasya-14/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -505,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/lasya-14/Leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/lasya-14/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/lasya-14/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lasya-14/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -512,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/lasya-14/Leetcode/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/lasya-14/Leetcode/tree/master/0078-subsets) |
 | [0191-number-of-1-bits](https://github.com/lasya-14/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/lasya-14/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lasya-14/Leetcode/tree/master/0287-find-the-duplicate-number) |
