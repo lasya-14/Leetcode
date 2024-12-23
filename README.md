@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/lasya-14/Leetcode/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/lasya-14/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/lasya-14/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/lasya-14/Leetcode/tree/master/0342-power-of-four) |
 | [0670-maximum-swap](https://github.com/lasya-14/Leetcode/tree/master/0670-maximum-swap) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lasya-14/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/lasya-14/Leetcode/tree/master/1635-number-of-good-pairs) |
@@ -533,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/lasya-14/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/lasya-14/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0338-counting-bits](https://github.com/lasya-14/Leetcode/tree/master/0338-counting-bits) |
+| [0342-power-of-four](https://github.com/lasya-14/Leetcode/tree/master/0342-power-of-four) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lasya-14/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lasya-14/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/lasya-14/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -549,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/lasya-14/Leetcode/tree/master/0024-swap-nodes-in-pairs) |
 | [0044-wildcard-matching](https://github.com/lasya-14/Leetcode/tree/master/0044-wildcard-matching) |
 | [0231-power-of-two](https://github.com/lasya-14/Leetcode/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/lasya-14/Leetcode/tree/master/0342-power-of-four) |
 | [1197-parsing-a-boolean-expression](https://github.com/lasya-14/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/lasya-14/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Tree
