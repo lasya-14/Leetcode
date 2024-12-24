@@ -4,6 +4,8 @@ class Solution:
         op=''
         if num<0:
             num+=2**32
+        p='%x'%(num)
+        return p
         if num==0:
             return "0"
         while num>0:
