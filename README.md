@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/lasya-14/Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lasya-14/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [0787-sliding-puzzle](https://github.com/lasya-14/Leetcode/tree/master/0787-sliding-puzzle) |
+| [0828-chalkboard-xor-game](https://github.com/lasya-14/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [0859-design-circular-deque](https://github.com/lasya-14/Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lasya-14/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0924-fair-candy-swap](https://github.com/lasya-14/Leetcode/tree/master/0924-fair-candy-swap) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/lasya-14/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/lasya-14/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0670-maximum-swap](https://github.com/lasya-14/Leetcode/tree/master/0670-maximum-swap) |
+| [0828-chalkboard-xor-game](https://github.com/lasya-14/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lasya-14/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1635-number-of-good-pairs](https://github.com/lasya-14/Leetcode/tree/master/1635-number-of-good-pairs) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/lasya-14/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -546,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/lasya-14/Leetcode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/lasya-14/Leetcode/tree/master/0397-integer-replacement) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/lasya-14/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0828-chalkboard-xor-game](https://github.com/lasya-14/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lasya-14/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lasya-14/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/lasya-14/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -687,4 +690,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/lasya-14/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lasya-14/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Brainteaser
+|  |
+| ------- |
+| [0828-chalkboard-xor-game](https://github.com/lasya-14/Leetcode/tree/master/0828-chalkboard-xor-game) |
+## Game Theory
+|  |
+| ------- |
+| [0828-chalkboard-xor-game](https://github.com/lasya-14/Leetcode/tree/master/0828-chalkboard-xor-game) |
 <!---LeetCode Topics End-->
