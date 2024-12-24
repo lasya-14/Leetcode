@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lasya-14/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lasya-14/Leetcode/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/lasya-14/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/lasya-14/Leetcode/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/lasya-14/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/lasya-14/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/lasya-14/Leetcode/tree/master/0078-subsets) |
@@ -524,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/lasya-14/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/lasya-14/Leetcode/tree/master/0078-subsets) |
 | [0095-unique-binary-search-trees-ii](https://github.com/lasya-14/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/lasya-14/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
