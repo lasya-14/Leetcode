@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/lasya-14/Leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/lasya-14/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lasya-14/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0494-target-sum](https://github.com/lasya-14/Leetcode/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/lasya-14/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/lasya-14/Leetcode/tree/master/0518-coin-change-ii) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lasya-14/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -247,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/lasya-14/Leetcode/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/lasya-14/Leetcode/tree/master/0338-counting-bits) |
 | [0397-integer-replacement](https://github.com/lasya-14/Leetcode/tree/master/0397-integer-replacement) |
+| [0494-target-sum](https://github.com/lasya-14/Leetcode/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/lasya-14/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/lasya-14/Leetcode/tree/master/0518-coin-change-ii) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/lasya-14/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -540,6 +542,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/lasya-14/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lasya-14/Leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/lasya-14/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0494-target-sum](https://github.com/lasya-14/Leetcode/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/lasya-14/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lasya-14/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
