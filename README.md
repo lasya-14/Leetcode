@@ -543,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/lasya-14/Leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/lasya-14/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/lasya-14/Leetcode/tree/master/0494-target-sum) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/lasya-14/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/lasya-14/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lasya-14/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Bit Manipulation
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/lasya-14/Leetcode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lasya-14/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/lasya-14/Leetcode/tree/master/0787-sliding-puzzle) |
+| [1007-numbers-with-same-consecutive-differences](https://github.com/lasya-14/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [2121-find-if-path-exists-in-graph](https://github.com/lasya-14/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lasya-14/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lasya-14/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
