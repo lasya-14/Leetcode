@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lasya-14/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/lasya-14/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/lasya-14/Leetcode/tree/master/0051-n-queens) |
+| [0055-jump-game](https://github.com/lasya-14/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/lasya-14/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/lasya-14/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/lasya-14/Leetcode/tree/master/0078-subsets) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/lasya-14/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lasya-14/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/lasya-14/Leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/lasya-14/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/lasya-14/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/lasya-14/Leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/lasya-14/Leetcode/tree/master/0072-edit-distance) |
@@ -273,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/lasya-14/Leetcode/tree/master/0044-wildcard-matching) |
+| [0055-jump-game](https://github.com/lasya-14/Leetcode/tree/master/0055-jump-game) |
 | [0316-remove-duplicate-letters](https://github.com/lasya-14/Leetcode/tree/master/0316-remove-duplicate-letters) |
 | [0397-integer-replacement](https://github.com/lasya-14/Leetcode/tree/master/0397-integer-replacement) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lasya-14/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
