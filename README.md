@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lasya-14/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0386-lexicographical-numbers](https://github.com/lasya-14/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lasya-14/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/lasya-14/Leetcode/tree/master/0547-number-of-provinces) |
 | [0988-flip-equivalent-binary-trees](https://github.com/lasya-14/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lasya-14/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2121-find-if-path-exists-in-graph](https://github.com/lasya-14/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0133-clone-graph](https://github.com/lasya-14/Leetcode/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/lasya-14/Leetcode/tree/master/0322-coin-change) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lasya-14/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/lasya-14/Leetcode/tree/master/0547-number-of-provinces) |
 | [0787-sliding-puzzle](https://github.com/lasya-14/Leetcode/tree/master/0787-sliding-puzzle) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/lasya-14/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
 | [2121-find-if-path-exists-in-graph](https://github.com/lasya-14/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
@@ -705,6 +707,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/lasya-14/Leetcode/tree/master/0133-clone-graph) |
+| [0547-number-of-provinces](https://github.com/lasya-14/Leetcode/tree/master/0547-number-of-provinces) |
 | [1039-find-the-town-judge](https://github.com/lasya-14/Leetcode/tree/master/1039-find-the-town-judge) |
 | [2121-find-if-path-exists-in-graph](https://github.com/lasya-14/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2201-valid-arrangement-of-pairs](https://github.com/lasya-14/Leetcode/tree/master/2201-valid-arrangement-of-pairs) |
@@ -747,5 +750,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/lasya-14/Leetcode/tree/master/0130-surrounded-regions) |
+| [0547-number-of-provinces](https://github.com/lasya-14/Leetcode/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/lasya-14/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
