@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lasya-14/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0924-fair-candy-swap](https://github.com/lasya-14/Leetcode/tree/master/0924-fair-candy-swap) |
 | [1002-maximum-width-ramp](https://github.com/lasya-14/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1025-minimum-cost-for-tickets](https://github.com/lasya-14/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1039-find-the-town-judge](https://github.com/lasya-14/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1063-best-sightseeing-pair](https://github.com/lasya-14/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lasya-14/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/lasya-14/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/lasya-14/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/lasya-14/Leetcode/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [1025-minimum-cost-for-tickets](https://github.com/lasya-14/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/lasya-14/Leetcode/tree/master/1063-best-sightseeing-pair) |
 | [1250-longest-common-subsequence](https://github.com/lasya-14/Leetcode/tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/lasya-14/Leetcode/tree/master/1402-count-square-submatrices-with-all-ones) |
