@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0386-lexicographical-numbers](https://github.com/lasya-14/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lasya-14/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/lasya-14/Leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/lasya-14/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/lasya-14/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [0988-flip-equivalent-binary-trees](https://github.com/lasya-14/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/lasya-14/Leetcode/tree/master/1350-remove-sub-folders-from-the-filesystem) |
@@ -690,6 +691,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0407-trapping-rain-water-ii](https://github.com/lasya-14/Leetcode/tree/master/0407-trapping-rain-water-ii) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lasya-14/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0547-number-of-provinces](https://github.com/lasya-14/Leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/lasya-14/Leetcode/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/lasya-14/Leetcode/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/lasya-14/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1007-numbers-with-same-consecutive-differences](https://github.com/lasya-14/Leetcode/tree/master/1007-numbers-with-same-consecutive-differences) |
@@ -780,6 +782,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0133-clone-graph](https://github.com/lasya-14/Leetcode/tree/master/0133-clone-graph) |
 | [0547-number-of-provinces](https://github.com/lasya-14/Leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/lasya-14/Leetcode/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/lasya-14/Leetcode/tree/master/0820-find-eventual-safe-states) |
 | [1039-find-the-town-judge](https://github.com/lasya-14/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lasya-14/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -829,6 +832,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/lasya-14/Leetcode/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/lasya-14/Leetcode/tree/master/0547-number-of-provinces) |
+| [0684-redundant-connection](https://github.com/lasya-14/Leetcode/tree/master/0684-redundant-connection) |
 | [1396-count-servers-that-communicate](https://github.com/lasya-14/Leetcode/tree/master/1396-count-servers-that-communicate) |
 | [2121-find-if-path-exists-in-graph](https://github.com/lasya-14/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/lasya-14/Leetcode/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
