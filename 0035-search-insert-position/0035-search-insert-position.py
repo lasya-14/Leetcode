@@ -4,11 +4,12 @@ class Solution:
         high=len(nums)-1
         while low<=high:
             mid=(low+high)//2
-            if target>nums[mid]:
-                low=mid+1
-            elif target<nums[mid]:
-                high=mid-1
-            elif target==nums[mid]:
+            if nums[mid]==target:
                 return nums.index(target)
+            elif nums[mid]>target:
+                high=mid-1
+            elif nums[mid]<target:
+                low=mid+1
         return low
+        
         
