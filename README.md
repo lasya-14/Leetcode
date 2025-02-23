@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0859-design-circular-deque](https://github.com/lasya-14/Leetcode/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lasya-14/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0924-fair-candy-swap](https://github.com/lasya-14/Leetcode/tree/master/0924-fair-candy-swap) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1002-maximum-width-ramp](https://github.com/lasya-14/Leetcode/tree/master/1002-maximum-width-ramp) |
 | [1022-unique-paths-iii](https://github.com/lasya-14/Leetcode/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/lasya-14/Leetcode/tree/master/1025-minimum-cost-for-tickets) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/lasya-14/Leetcode/tree/master/0645-set-mismatch) |
 | [0782-jewels-and-stones](https://github.com/lasya-14/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0924-fair-candy-swap](https://github.com/lasya-14/Leetcode/tree/master/0924-fair-candy-swap) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1039-find-the-town-judge](https://github.com/lasya-14/Leetcode/tree/master/1039-find-the-town-judge) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/lasya-14/Leetcode/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1160-letter-tile-possibilities](https://github.com/lasya-14/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -588,6 +590,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lasya-14/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/lasya-14/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lasya-14/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -742,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/lasya-14/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lasya-14/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lasya-14/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/lasya-14/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lasya-14/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lasya-14/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -796,6 +800,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/lasya-14/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lasya-14/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/lasya-14/Leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/lasya-14/Leetcode/tree/master/0988-flip-equivalent-binary-trees) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/lasya-14/Leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lasya-14/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
