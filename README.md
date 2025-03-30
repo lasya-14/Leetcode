@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/lasya-14/Leetcode/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lasya-14/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/lasya-14/Leetcode/tree/master/0645-set-mismatch) |
+| [0768-partition-labels](https://github.com/lasya-14/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/lasya-14/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/lasya-14/Leetcode/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0924-fair-candy-swap](https://github.com/lasya-14/Leetcode/tree/master/0924-fair-candy-swap) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/lasya-14/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/lasya-14/Leetcode/tree/master/0567-permutation-in-string) |
 | [0678-valid-parenthesis-string](https://github.com/lasya-14/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/lasya-14/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/lasya-14/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/lasya-14/Leetcode/tree/master/0812-rotate-string) |
 | [1160-letter-tile-possibilities](https://github.com/lasya-14/Leetcode/tree/master/1160-letter-tile-possibilities) |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lasya-14/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/lasya-14/Leetcode/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/lasya-14/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/lasya-14/Leetcode/tree/master/0768-partition-labels) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lasya-14/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1304-longest-happy-string](https://github.com/lasya-14/Leetcode/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/lasya-14/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -628,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/lasya-14/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/lasya-14/Leetcode/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0567-permutation-in-string](https://github.com/lasya-14/Leetcode/tree/master/0567-permutation-in-string) |
+| [0768-partition-labels](https://github.com/lasya-14/Leetcode/tree/master/0768-partition-labels) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/lasya-14/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/lasya-14/Leetcode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/lasya-14/Leetcode/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
