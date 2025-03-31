@@ -302,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0318-maximum-product-of-word-lengths](https://github.com/lasya-14/Leetcode/tree/master/0318-maximum-product-of-word-lengths) |
 | [0387-first-unique-character-in-a-string](https://github.com/lasya-14/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/lasya-14/Leetcode/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/lasya-14/Leetcode/tree/master/0412-fizz-buzz) |
 | [0459-repeated-substring-pattern](https://github.com/lasya-14/Leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0516-longest-palindromic-subsequence](https://github.com/lasya-14/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/lasya-14/Leetcode/tree/master/0567-permutation-in-string) |
@@ -687,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/lasya-14/Leetcode/tree/master/0412-fizz-buzz) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/lasya-14/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/lasya-14/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lasya-14/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/lasya-14/Leetcode/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/lasya-14/Leetcode/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/lasya-14/Leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
+| [0412-fizz-buzz](https://github.com/lasya-14/Leetcode/tree/master/0412-fizz-buzz) |
 | [0670-maximum-swap](https://github.com/lasya-14/Leetcode/tree/master/0670-maximum-swap) |
 | [0828-chalkboard-xor-game](https://github.com/lasya-14/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/lasya-14/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
