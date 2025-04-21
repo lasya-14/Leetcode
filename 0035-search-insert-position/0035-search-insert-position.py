@@ -6,10 +6,8 @@ class Solution:
             mid=(low+high)//2
             if nums[mid]==target:
                 return nums.index(target)
-            elif nums[mid]>target:
-                high=mid-1
             elif nums[mid]<target:
                 low=mid+1
+            elif nums[mid]>target:
+                high=mid-1
         return low
-        
-        
