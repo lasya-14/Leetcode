@@ -5,12 +5,7 @@ class Solution(object):
         :rtype: bool
         """
         s=str(x)
-        n=len(s)//2
-        m=len(s)
-        for i in range(n):
-            l=s[i]
-            r=s[m-1-i]
-            if l!=r:
-                return False
-        else:
+        if s==s[::-1]:
             return True
+        else:
+            return False
