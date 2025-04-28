@@ -1,12 +1,10 @@
-class Solution(object):
-    def isPalindrome(self, s):
-        """
-        :type s: str
-        :rtype: bool
-        """
-        stri=''.join(c.lower() for c in s if c.isalnum())
-        n=len(stri)//2
-        for i in range(n):
-            if stri[i]!=stri[len(stri)-1-i]:
-                return False
-        return True
+class Solution:
+    def isPalindrome(self, s: str) -> bool:
+        s2=''
+        for i in s.lower():
+            if i.isalnum():
+                s2+=i
+        if s2==s2[::-1]:
+            return True
+        else:
+            return False
