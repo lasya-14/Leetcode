@@ -1,5 +1,17 @@
 class Solution:
     def check(self, nums: List[int]) -> bool:
-        return (cntD:=sum(y<x for x, y in pairwise(nums)))==0 or (cntD==1 and nums[-1]<=nums[0])
-
+        s=sorted(nums)
+        if nums==s:
+            return True
+        ind=0
+        for i in range(len(nums)):
+            if nums[i]<nums[i-1]:
+                ind=i
+                break
+        nums[i:],nums[:i]=nums[:i],nums[i:]
+        for i in range(len(nums)):
+            if nums[i]!=s[i]:
+                return False
+        return True
+        
         
