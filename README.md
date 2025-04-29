@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/lasya-14/Leetcode/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/lasya-14/Leetcode/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/lasya-14/Leetcode/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/lasya-14/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1160-letter-tile-possibilities](https://github.com/lasya-14/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1170-shortest-common-supersequence](https://github.com/lasya-14/Leetcode/tree/master/1170-shortest-common-supersequence) |
 | [1197-parsing-a-boolean-expression](https://github.com/lasya-14/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
@@ -604,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/lasya-14/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lasya-14/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
 | [1002-maximum-width-ramp](https://github.com/lasya-14/Leetcode/tree/master/1002-maximum-width-ramp) |
+| [1078-remove-outermost-parentheses](https://github.com/lasya-14/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1197-parsing-a-boolean-expression](https://github.com/lasya-14/Leetcode/tree/master/1197-parsing-a-boolean-expression) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/lasya-14/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/lasya-14/Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
