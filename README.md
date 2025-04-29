@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/lasya-14/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/lasya-14/Leetcode/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/lasya-14/Leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/lasya-14/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/lasya-14/Leetcode/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/lasya-14/Leetcode/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/lasya-14/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/lasya-14/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/lasya-14/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0044-wildcard-matching](https://github.com/lasya-14/Leetcode/tree/master/0044-wildcard-matching) |
+| [0053-maximum-subarray](https://github.com/lasya-14/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/lasya-14/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/lasya-14/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/lasya-14/Leetcode/tree/master/0070-climbing-stairs) |
@@ -718,6 +720,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lasya-14/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/lasya-14/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/lasya-14/Leetcode/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/lasya-14/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lasya-14/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
