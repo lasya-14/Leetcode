@@ -1,14 +1,10 @@
-class Solution(object):
-    def intToRoman(self, num):
-        """
-        :type num: int
-        :rtype: str
-        """
+class Solution:
+    def intToRoman(self, num: int) -> str:
         op=''
         if num>=1000:
             p=num//1000
             op+='M'*p
-            num%=1000
+            num=num%1000
         if num>=900:
             p=num//900
             op+='CM'*p
@@ -58,7 +54,5 @@ class Solution(object):
             op+='I'*p
             num%=1
         return op
-
-
 
         
