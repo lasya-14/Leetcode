@@ -5,10 +5,11 @@ class Solution:
         for i in s:
             if st and i=='..':
                 st.pop()
-            elif i in ['.','','/','..']:
+            elif i in ['/','','.','..']:
                 continue
             else:
                 st.append(i)
         r='/'+'/'.join(st)
         return r
+    
         
