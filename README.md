@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/lasya-14/Leetcode/tree/master/0130-surrounded-regions) |
 | [0136-single-number](https://github.com/lasya-14/Leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/lasya-14/Leetcode/tree/master/0137-single-number-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lasya-14/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/lasya-14/Leetcode/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/lasya-14/Leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/lasya-14/Leetcode/tree/master/0174-dungeon-game) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/lasya-14/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/lasya-14/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lasya-14/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/lasya-14/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/lasya-14/Leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/lasya-14/Leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lasya-14/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
