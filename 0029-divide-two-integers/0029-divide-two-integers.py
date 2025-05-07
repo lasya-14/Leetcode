@@ -1,26 +1,31 @@
 class Solution:
     def divide(self, n: int, p: int) -> int:
-        r=1
-        t=p
-        if n==-(2**31) and p==-1:
-            return (n*-1)-1
-        if n<0:
-            n=-n
-            r=-1
-        if p<0:
-            p=-p
-            r*=-1
-        def divided(n,p,r):
-            d=0
-            while p<=n:
-                w=1
-                t=p
-                while t<<1<=n:
-                    w<<=1
-                    t<<=1
-                d+=w
-                n-=t
-            return r*d
-        s=divided(n,p,r)
-        return s
+        if n==p:
+            return 1
+        INT_MAX = 2**31 - 1
+        INT_MIN = -2**31
+        sign=True
+        if n>0 and p<0:
+            sign=False
+        if n<0 and p>0:
+            sign=False
+        n=abs(n)
+        p=abs(p)
+        ans=0
+        while n>=p:
+            count=0
+            while n>=(p<<(count+1)):
+                count+=1
+            ans+=(1<<count)
+            n=n-(p*(1<<count))
+        if ans>2**31 and sign==True:
+            return INT_MAX
+        if ans>2**31 and sign==False:
+            return INT_MIN
+        if sign:
+            return min(max(INT_MIN, ans), INT_MAX)
+        else:
+            return -ans
+
+
         
