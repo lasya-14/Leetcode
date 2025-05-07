@@ -1,11 +1,10 @@
 class Solution:
     def minBitFlips(self, start: int, goal: int) -> int:
+        ans=start^goal
         count=0
-        max_bits = max(start.bit_length(), goal.bit_length())
-        for i in range(max_bits):
-            if ((start>>i)&1)!=((goal>>i)&1):
+        for i in range(32):
+            if ans&(1<<i)!=0:
                 count+=1
-                start^=(1<<i)
         return count
         
         
