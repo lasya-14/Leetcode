@@ -327,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/lasya-14/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/lasya-14/Leetcode/tree/master/0044-wildcard-matching) |
 | [0058-length-of-last-word](https://github.com/lasya-14/Leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/lasya-14/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/lasya-14/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/lasya-14/Leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/lasya-14/Leetcode/tree/master/0125-valid-palindrome) |
@@ -778,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/lasya-14/Leetcode/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/lasya-14/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/lasya-14/Leetcode/tree/master/0495-teemo-attacking) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/lasya-14/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -806,6 +808,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/lasya-14/Leetcode/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/lasya-14/Leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/lasya-14/Leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/lasya-14/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/lasya-14/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/lasya-14/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/lasya-14/Leetcode/tree/master/0231-power-of-two) |
@@ -897,6 +900,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/lasya-14/Leetcode/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/lasya-14/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/lasya-14/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lasya-14/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/lasya-14/Leetcode/tree/master/0136-single-number) |
