@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/lasya-14/Leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/lasya-14/Leetcode/tree/master/0174-dungeon-game) |
 | [0189-rotate-array](https://github.com/lasya-14/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/lasya-14/Leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/lasya-14/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/lasya-14/Leetcode/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lasya-14/Leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -811,6 +812,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/lasya-14/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/lasya-14/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/lasya-14/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/lasya-14/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/lasya-14/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/lasya-14/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/lasya-14/Leetcode/tree/master/0342-power-of-four) |
@@ -938,6 +940,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lasya-14/Leetcode/tree/master/0204-count-primes) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lasya-14/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lasya-14/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Recursion
@@ -1179,6 +1182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lasya-14/Leetcode/tree/master/0204-count-primes) |
 | [2610-closest-prime-numbers-in-range](https://github.com/lasya-14/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/lasya-14/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Bucket Sort
