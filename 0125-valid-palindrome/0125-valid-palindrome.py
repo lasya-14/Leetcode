@@ -4,7 +4,14 @@ class Solution:
         for i in s.lower():
             if i.isalnum():
                 s2+=i
-        if s2==s2[::-1]:
-            return True
-        else:
-            return False
+        i=0
+        j=len(s2)-1
+        is_palindrome=False
+        while i<j:
+            if s2[i]==s2[j]:
+                is_palindrome=True
+            else:
+                return False
+            i+=1
+            j-=1
+        return True
