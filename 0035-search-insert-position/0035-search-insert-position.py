@@ -5,7 +5,7 @@ class Solution:
         while low<=high:
             mid=(low+high)//2
             if nums[mid]==target:
-                return nums.index(target)
+                return mid
             elif nums[mid]<target:
                 low=mid+1
             elif nums[mid]>target:
