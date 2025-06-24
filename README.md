@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/lasya-14/Leetcode/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lasya-14/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/lasya-14/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lasya-14/Leetcode/tree/master/0112-path-sum) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/lasya-14/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/lasya-14/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/lasya-14/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/lasya-14/Leetcode/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/lasya-14/Leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/lasya-14/Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/lasya-14/Leetcode/tree/master/0085-maximal-rectangle) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/lasya-14/Leetcode/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/lasya-14/Leetcode/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/lasya-14/Leetcode/tree/master/0072-edit-distance) |
+| [0079-word-search](https://github.com/lasya-14/Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/lasya-14/Leetcode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/lasya-14/Leetcode/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/lasya-14/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -924,6 +927,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/lasya-14/Leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/lasya-14/Leetcode/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/lasya-14/Leetcode/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/lasya-14/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/lasya-14/Leetcode/tree/master/0090-subsets-ii) |
 | [0095-unique-binary-search-trees-ii](https://github.com/lasya-14/Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0494-target-sum](https://github.com/lasya-14/Leetcode/tree/master/0494-target-sum) |
@@ -1092,6 +1096,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/lasya-14/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/lasya-14/Leetcode/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/lasya-14/Leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/lasya-14/Leetcode/tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/lasya-14/Leetcode/tree/master/0174-dungeon-game) |
