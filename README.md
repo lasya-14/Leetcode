@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-maximum-ascending-subarray-sum](https://github.com/lasya-14/Leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [1972-rotating-the-box](https://github.com/lasya-14/Leetcode/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lasya-14/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/lasya-14/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/lasya-14/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/lasya-14/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lasya-14/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
@@ -1054,6 +1055,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lasya-14/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1558-course-schedule-iv](https://github.com/lasya-14/Leetcode/tree/master/1558-course-schedule-iv) |
 | [1876-map-of-highest-peak](https://github.com/lasya-14/Leetcode/tree/master/1876-map-of-highest-peak) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/lasya-14/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2121-find-if-path-exists-in-graph](https://github.com/lasya-14/Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/lasya-14/Leetcode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/lasya-14/Leetcode/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -1111,6 +1113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/lasya-14/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1876-map-of-highest-peak](https://github.com/lasya-14/Leetcode/tree/master/1876-map-of-highest-peak) |
 | [1972-rotating-the-box](https://github.com/lasya-14/Leetcode/tree/master/1972-rotating-the-box) |
+| [2038-nearest-exit-from-entrance-in-maze](https://github.com/lasya-14/Leetcode/tree/master/2038-nearest-exit-from-entrance-in-maze) |
 | [2089-maximum-matrix-sum](https://github.com/lasya-14/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2145-grid-game](https://github.com/lasya-14/Leetcode/tree/master/2145-grid-game) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lasya-14/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
