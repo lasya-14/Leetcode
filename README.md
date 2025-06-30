@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/lasya-14/Leetcode/tree/master/0506-relative-ranks) |
 | [0518-coin-change-ii](https://github.com/lasya-14/Leetcode/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/lasya-14/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/lasya-14/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lasya-14/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/lasya-14/Leetcode/tree/master/0645-set-mismatch) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/lasya-14/Leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/lasya-14/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/lasya-14/Leetcode/tree/master/0500-keyboard-row) |
 | [0567-permutation-in-string](https://github.com/lasya-14/Leetcode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/lasya-14/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lasya-14/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/lasya-14/Leetcode/tree/master/0645-set-mismatch) |
 | [0768-partition-labels](https://github.com/lasya-14/Leetcode/tree/master/0768-partition-labels) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/lasya-14/Leetcode/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/lasya-14/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/lasya-14/Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0594-longest-harmonious-subsequence](https://github.com/lasya-14/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1160-letter-tile-possibilities](https://github.com/lasya-14/Leetcode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/lasya-14/Leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/lasya-14/Leetcode/tree/master/1396-count-servers-that-communicate) |
@@ -708,6 +711,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/lasya-14/Leetcode/tree/master/0414-third-maximum-number) |
 | [0451-sort-characters-by-frequency](https://github.com/lasya-14/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/lasya-14/Leetcode/tree/master/0506-relative-ranks) |
+| [0594-longest-harmonious-subsequence](https://github.com/lasya-14/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lasya-14/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0645-set-mismatch](https://github.com/lasya-14/Leetcode/tree/master/0645-set-mismatch) |
 | [0780-max-chunks-to-make-sorted](https://github.com/lasya-14/Leetcode/tree/master/0780-max-chunks-to-make-sorted) |
@@ -794,6 +798,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/lasya-14/Leetcode/tree/master/0567-permutation-in-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/lasya-14/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/lasya-14/Leetcode/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/lasya-14/Leetcode/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/lasya-14/Leetcode/tree/master/1460-number-of-substrings-containing-all-three-characters) |
