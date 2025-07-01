@@ -845,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/lasya-14/Leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/lasya-14/Leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/lasya-14/Leetcode/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/lasya-14/Leetcode/tree/master/0495-teemo-attacking) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/lasya-14/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
@@ -883,6 +884,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/lasya-14/Leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/lasya-14/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/lasya-14/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/lasya-14/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/lasya-14/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/lasya-14/Leetcode/tree/master/0342-power-of-four) |
 | [0368-largest-divisible-subset](https://github.com/lasya-14/Leetcode/tree/master/0368-largest-divisible-subset) |
@@ -1284,6 +1286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/lasya-14/Leetcode/tree/master/0204-count-primes) |
+| [0258-add-digits](https://github.com/lasya-14/Leetcode/tree/master/0258-add-digits) |
 | [2610-closest-prime-numbers-in-range](https://github.com/lasya-14/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [3001-apply-operations-to-maximize-score](https://github.com/lasya-14/Leetcode/tree/master/3001-apply-operations-to-maximize-score) |
 ## Bucket Sort
