@@ -428,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3379-score-of-a-string](https://github.com/lasya-14/Leetcode/tree/master/3379-score-of-a-string) |
 | [3447-clear-digits](https://github.com/lasya-14/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/lasya-14/Leetcode/tree/master/3451-string-compression-iii) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/lasya-14/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/lasya-14/Leetcode/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3617-find-the-original-typed-string-i](https://github.com/lasya-14/Leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3754-maximum-manhattan-distance-after-k-changes](https://github.com/lasya-14/Leetcode/tree/master/3754-maximum-manhattan-distance-after-k-changes) |
@@ -849,6 +850,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/lasya-14/Leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/lasya-14/Leetcode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/lasya-14/Leetcode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/lasya-14/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
 ## Math
 |  |
 | ------- |
