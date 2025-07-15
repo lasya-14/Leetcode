@@ -452,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/lasya-14/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/lasya-14/Leetcode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3379-score-of-a-string](https://github.com/lasya-14/Leetcode/tree/master/3379-score-of-a-string) |
+| [3396-valid-word](https://github.com/lasya-14/Leetcode/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/lasya-14/Leetcode/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/lasya-14/Leetcode/tree/master/3451-string-compression-iii) |
 | [3566-find-the-sequence-of-strings-appeared-on-the-screen](https://github.com/lasya-14/Leetcode/tree/master/3566-find-the-sequence-of-strings-appeared-on-the-screen) |
