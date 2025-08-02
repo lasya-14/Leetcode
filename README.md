@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/lasya-14/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/lasya-14/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/lasya-14/Leetcode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/lasya-14/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/lasya-14/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/lasya-14/Leetcode/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2551-apply-operations-to-an-array](https://github.com/lasya-14/Leetcode/tree/master/2551-apply-operations-to-an-array) |
@@ -629,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2164-two-best-non-overlapping-events](https://github.com/lasya-14/Leetcode/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/lasya-14/Leetcode/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/lasya-14/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/lasya-14/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2586-longest-square-streak-in-an-array](https://github.com/lasya-14/Leetcode/tree/master/2586-longest-square-streak-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/lasya-14/Leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/lasya-14/Leetcode/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -879,6 +881,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/lasya-14/Leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/lasya-14/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2478-longest-nice-subarray](https://github.com/lasya-14/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/lasya-14/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/lasya-14/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/lasya-14/Leetcode/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/lasya-14/Leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
@@ -1072,6 +1075,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/lasya-14/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/lasya-14/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2478-longest-nice-subarray](https://github.com/lasya-14/Leetcode/tree/master/2478-longest-nice-subarray) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/lasya-14/Leetcode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2509-minimize-xor](https://github.com/lasya-14/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/lasya-14/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/lasya-14/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
