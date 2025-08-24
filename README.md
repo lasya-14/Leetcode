@@ -989,6 +989,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lasya-14/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/lasya-14/Leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/lasya-14/Leetcode/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2383-add-two-integers](https://github.com/lasya-14/Leetcode/tree/master/2383-add-two-integers) |
 | [2448-count-number-of-bad-pairs](https://github.com/lasya-14/Leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2610-closest-prime-numbers-in-range](https://github.com/lasya-14/Leetcode/tree/master/2610-closest-prime-numbers-in-range) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/lasya-14/Leetcode/tree/master/2802-find-the-punishment-number-of-an-integer) |
