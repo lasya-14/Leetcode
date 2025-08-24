@@ -190,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/lasya-14/Leetcode/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/lasya-14/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/lasya-14/Leetcode/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
+| [2058-concatenation-of-array](https://github.com/lasya-14/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/lasya-14/Leetcode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/lasya-14/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lasya-14/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -933,6 +934,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/lasya-14/Leetcode/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/lasya-14/Leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2048-build-array-from-permutation](https://github.com/lasya-14/Leetcode/tree/master/2048-build-array-from-permutation) |
+| [2058-concatenation-of-array](https://github.com/lasya-14/Leetcode/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/lasya-14/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2232-adding-spaces-to-a-string](https://github.com/lasya-14/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/lasya-14/Leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
