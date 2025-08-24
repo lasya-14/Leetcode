@@ -3,14 +3,12 @@ class Solution:
         """
         Do not return anything, modify nums in-place instead.
         """
-        count=0
-        res=[]
+        pos=0
         for i in range(len(nums)):
-            if nums[i]==0:
-                count+=1
-            else:
-                res.append(nums[i])
-        for i in range(count):
-            res.append(0)
-        nums[:]=res
+            if nums[i]!=0:
+                nums[pos]=nums[i]
+                pos+=1
+        for i in range(pos,len(nums)):
+            nums[i]=0
         
+    
