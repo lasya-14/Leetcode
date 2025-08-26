@@ -4,8 +4,13 @@ class Solution(object):
         :type x: int
         :rtype: bool
         """
-        s=str(x)
-        if s==s[::-1]:
+        rev=0
+        x1=x
+        while x1>0:
+            rem=x1%10
+            rev=rev*10+rem
+            x1=x1//10
+
+        if rev==x:
             return True
-        else:
-            return False
+        return False
