@@ -1105,6 +1105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/lasya-14/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/lasya-14/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/lasya-14/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/lasya-14/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/lasya-14/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/lasya-14/Leetcode/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/lasya-14/Leetcode/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -1118,6 +1119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0900-reordered-power-of-2](https://github.com/lasya-14/Leetcode/tree/master/0900-reordered-power-of-2) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/lasya-14/Leetcode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/lasya-14/Leetcode/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/lasya-14/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3741-reschedule-meetings-for-maximum-free-time-ii](https://github.com/lasya-14/Leetcode/tree/master/3741-reschedule-meetings-for-maximum-free-time-ii) |
 ## Recursion
 |  |
@@ -1356,6 +1358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0828-chalkboard-xor-game](https://github.com/lasya-14/Leetcode/tree/master/0828-chalkboard-xor-game) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/lasya-14/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/lasya-14/Leetcode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 ## Game Theory
 |  |
 | ------- |
