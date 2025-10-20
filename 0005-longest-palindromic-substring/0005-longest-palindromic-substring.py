@@ -17,6 +17,5 @@ class Solution:
                     dp[i][j]=1
                     maxlength=length
                     start=i
-
         return s[start:start+maxlength]
         
